@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(ducoment/images/background/bg_main.gif) top center repeat-y;
+}
+.default{
+    width: 1021px;
+    margin: 0 auto;
+}
+.top_head{
+    background-color: #9E5BBA;
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+}
+.top_head a{
+    border-left: 1px solid rgb(252, 251, 251);
+}
+.doyel{
+    border-right: 1px solid rgba(220, 211, 211, 0.584);
+}
+.nav_bar li a{
+    border-right: 1px solid rgba(220, 208, 208, 0.771);
+    color: black;
+}
+.nav_bar li a:hover{
+    color: white;
+    background-color: green;
+}
+.uddog li{
+    padding-bottom: 10px;
+    border-bottom: 1px solid green;
+    font-size: 13px;
+}
+.sokol{
+    font-size: 12px;
+    padding: 4px 5px;
+    background-color: green;
+}
+.slider img{
+    height: 220px;
+}
+.default_two{
+    padding-right: 10px;
+}
+.yothob p{
+    background-color: green;
+}
+.footer_upper{
+    background: url(ducoment/images/footer/footer_top_bg.png) bottom no-repeat;
+    height: 100px;
+}
+.nav_bottom li a{
+    font-size: 11px;
+}
+.nav_bottom li a:hover{
+    background-color: transparent;
+    text-decoration: underline;
+    color: black;
+}
+.footer_p{
+    font-size: 10px;
+}
+.tabs a{
+    font-size: 11px;
+}
+footer{
+    background-color: rgba(188, 243, 243, 0.76);
+}
